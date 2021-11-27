@@ -1,0 +1,118 @@
+{
+    "supportCards":[
+        {
+            "id": "r0",
+            "active": false, 
+            "name": "Silent Retreat",
+            "resource": {
+                "id": "wood"
+            },
+            "ability": {
+                "text": "Burn fast",
+                "mod": 2,
+                "requirements": [{
+                    "id": "carpenter"
+                }]
+            }
+          },
+          {
+            "id": "r1",
+            "active": false, 
+            "name": "Cryptopath",
+            "resource": {
+                "id": "ruby"
+            }
+        },
+          {
+            "id": "r2",
+            "active": false, 
+            "name": "Silent Retreat",
+            "resource": {
+                "id": "wood"
+            },
+            "ability": {
+                "text": "Burn fast",
+                "mod": 2,
+                "requirements": [{
+                    "id": "carpenter"
+                }]
+            }
+          },
+          {
+            "id": "r3",
+            "active": false, 
+            "name": "Cryptopath",
+            "resource": {
+                "id": "ruby"
+            }
+        },
+          {
+            "id": "r4",
+            "active": false, 
+            "name": "Silent Retreat",
+            "resource": {
+                "id": "wood"
+            },
+            "ability": {
+                "text": "Burn fast",
+                "mod": 2,
+                "requirements": [{
+                    "id": "carpenter"
+                }]
+            }
+          },
+          {
+            "id": "r5",
+            "active": false, 
+            "name": "Silent Retreat",
+            "resource": {
+                "id": "wood"
+            },
+            "ability": {
+                "text": "Burn fast",
+                "mod": 2,
+                "requirements": [{
+                    "id": "carpenter"
+                }]
+            }
+          },
+          {
+            "id": "r6",
+            "active": false, 
+            "name": "Silent Retreat",
+            "resource": {
+                "id": "wood"
+            },
+            "ability": {
+                "text": "Burn fast",
+                "mod": 2,
+                "requirements": [{
+                    "id": "carpenter"
+                }]
+            }
+          },
+          {
+            "id": "r7",
+            "active": false, 
+            "name": "Silent Retreat",
+            "resource": {
+                "id": "wood"
+            },
+            "ability": {
+                "text": "Burn fast",
+                "mod": 2,
+                "requirements": [{
+                    "id": "carpenter"
+                }]
+            }
+          },
+          {
+            "id": "r8",
+            "active": false, 
+            "name": "Cryptopath",
+            "resource": {
+                "id": "ruby"
+            }
+        }
+    ]
+}
