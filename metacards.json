@@ -1,0 +1,149 @@
+{
+    "metaCards":[
+        {
+            "id": "m0",
+            "energy": 2, 
+             "power": null,
+             "health": null,
+             "score": null,
+            "name": "Shadow Builder",
+            "active": false, 
+            "trade": {
+                "id": "carpenter"
+            },
+            "ability": {
+                "text": "Arrow Shot",
+                "mod": 2,
+                "requirements": [{
+                    "id": "wood"
+                }, {
+                    "id": "wood"
+                }]
+            }
+        },{
+          "id": "m1",
+          "active": false, 
+          "name": "Blue Thunder",
+          "energy": 2, 
+          "power": null,
+          "health": null,
+          "score": null,
+          "trade": {
+              "id": "farmer"
+          },
+          "ability": {
+              "text": "Giant Airdrop",
+              "mod": 2.5,
+              "requirements": [{
+                  "id": "gold"
+              }, {
+                  "id": "gold"
+              }]
+          }
+      },
+      {
+        "id": "m2",
+        "energy": 2, 
+         "power": null,
+         "health": null,
+         "score": null,
+        "name": "Shadow Builder",
+        "active": false, 
+        "trade": {
+            "id": "carpenter"
+        },
+        "ability": {
+            "text": "Arrow Shot",
+            "mod": 2,
+            "requirements": [{
+                "id": "wood"
+            }, {
+                "id": "wood"
+            }]
+        }
+    },{
+      "id": "m3",
+      "active": false, 
+      "name": "Blue Thunder",
+      "energy": 2, 
+      "power": null,
+      "health": null,
+      "score": null,
+      "trade": {
+          "id": "farmer"
+      },
+      "ability": {
+          "text": "Giant Airdrop",
+          "mod": 2.5,
+          "requirements": [{
+              "id": "gold"
+          }, {
+              "id": "gold"
+          }]
+      }
+  },
+  {
+    "id": "m4",
+    "energy": 2, 
+     "power": null,
+     "health": null,
+     "score": null,
+    "name": "Shadow Builder",
+    "active": false, 
+    "trade": {
+        "id": "carpenter"
+    },
+    "ability": {
+        "text": "Arrow Shot",
+        "mod": 2,
+        "requirements": [{
+            "id": "wood"
+        }, {
+            "id": "wood"
+        }]
+    }
+},{
+  "id": "m5",
+  "active": false, 
+  "name": "Blue Thunder",
+  "energy": 2, 
+  "power": null,
+  "health": null,
+  "score": null,
+  "trade": {
+      "id": "farmer"
+  },
+  "ability": {
+      "text": "Giant Airdrop",
+      "mod": 2.5,
+      "requirements": [{
+          "id": "gold"
+      }, {
+          "id": "gold"
+      }]
+  }
+},
+{
+    "id": "m6",
+    "energy": 2, 
+     "power": null,
+     "health": null,
+     "score": null,
+    "name": "Shadow Builder",
+    "active": false, 
+    "trade": {
+        "id": "carpenter"
+    },
+    "ability": {
+        "text": "Arrow Shot",
+        "mod": 2,
+        "requirements": [{
+            "id": "wood"
+        }, {
+            "id": "wood"
+        }]
+    }
+}
+    ]
+    
+}
