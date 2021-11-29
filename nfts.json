@@ -6,7 +6,7 @@
       "img":"/images/nft/cryptodads/166.png",
       "power": 99,
       "health": 30,
-      "score": 77,
+      "score": 77
     },
       {
       "id":2280,
@@ -14,15 +14,15 @@
       "img":"/images/nft/cryptodads/2280.png",
       "power": 5,
       "health": 60,
-      "score": 10,
+      "score": 10
     },
     {
     "id":9963,
     "collection":"cryptodads",
     "img":"/images/nft/cryptodads/9963.png",
     "power": 90,
-      "health": 10,
-      "score": 32,
+     "health": 10,
+     "score": 32
    },
     {
     "id":9283,
@@ -30,7 +30,7 @@
     "img":"/images/nft/cryptodads/9283.png",
     "power": 7,
     "health": 10,
-    "score": 32,
+    "score": 32
    }
     ]
 }
