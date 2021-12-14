@@ -23,7 +23,7 @@
         },{
           "id": "m1",
           "active": false, 
-          "name": "Blue Thunder",
+          "name": "Shield Master",
           "energy": 2, 
           "power": null,
           "health": null,
@@ -32,7 +32,7 @@
               "id": "farmer"
           },
           "ability": {
-              "text": "Giant Airdrop",
+              "text": "Shield Slam",
               "mod": 2.5,
               "requirements": [{
                   "id": "gold"
@@ -47,13 +47,13 @@
          "power": null,
          "health": null,
          "score": null,
-        "name": "Shadow Builder",
+        "name": "Artisan Bowsmith",
         "active": false, 
         "trade": {
             "id": "carpenter"
         },
         "ability": {
-            "text": "Arrow Shot",
+            "text": "Concussive Shot",
             "mod": 2,
             "requirements": [{
                 "id": "wood"
@@ -64,7 +64,7 @@
     },{
       "id": "m3",
       "active": false, 
-      "name": "Blue Thunder",
+      "name": "Jeweller",
       "energy": 2, 
       "power": null,
       "health": null,
@@ -88,7 +88,7 @@
      "power": null,
      "health": null,
      "score": null,
-    "name": "Shadow Builder",
+    "name": "Boat Builder",
     "active": false, 
     "trade": {
         "id": "carpenter"
@@ -105,7 +105,7 @@
 },{
   "id": "m5",
   "active": false, 
-  "name": "Blue Thunder",
+  "name": "Stonemason",
   "energy": 2, 
   "power": null,
   "health": null,
@@ -129,7 +129,7 @@
      "power": null,
      "health": null,
      "score": null,
-    "name": "Shadow Builder",
+    "name": "Space Warrior",
     "active": false, 
     "trade": {
         "id": "carpenter"
