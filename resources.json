@@ -94,21 +94,6 @@
           {
             "id": "r7",
             "active": false, 
-            "name": "Silent Retreat",
-            "resource": {
-                "id": "wood"
-            },
-            "ability": {
-                "text": "Burn fast",
-                "mod": 2,
-                "requirements": [{
-                    "id": "carpenter"
-                }]
-            }
-          },
-          {
-            "id": "r8",
-            "active": false, 
             "name": "Cryptopath",
             "resource": {
                 "id": "ruby"
